@@ -3,6 +3,9 @@
 This is an application using two roles: reader and administrator.
 To switch to admin mode, type [/admin](https://angular-blog-a0f3e.web.app/admin) in the browser bar. 
 
+The user can see a list of posts, as well as see the detailed text of each.
+The administrator can create, edit and delete posts.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Development server
