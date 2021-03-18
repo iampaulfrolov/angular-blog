@@ -1,4 +1,7 @@
-# AngularBlog
+# [AngularBlog](https://angular-blog-a0f3e.web.app)
+
+This is an application using two roles: reader and administrator.
+To switch to admin mode, type [/admin](https://angular-blog-a0f3e.web.app/admin) in the browser bar. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
